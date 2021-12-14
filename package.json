@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpawe01/aoc2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpawe01/aoc2021/issues"
+  },
+  "homepage": "https://github.com/hpawe01/aoc2021#readme",
+  "dependencies": {
+    "mathjs": "^10.0.0"
+  }
+}
